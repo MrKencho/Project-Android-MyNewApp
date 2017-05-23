@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="no_news">No News To Show!</string>
+    <string name="no_internet_connection">Please Check Your Internet Connectivity!</string>
+    <string name="refresh_menu_item">Settings</string>
+    <string name="refreshing">Refreshing&#8230;</string>
+    <string name="problemURL">Problem Building the URL!</string>
+</resources>

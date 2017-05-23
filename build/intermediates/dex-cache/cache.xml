@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_c223476e96bbb41a1ea841b193f1a58fa17751f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_0b7074730b8a77e05f772a79d3c53be12f3a4d3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_c928230175a046301d6720c2cd1b50868cb68a2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_c223476e96bbb41a1ea841b193f1a58fa17751f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_0b7074730b8a77e05f772a79d3c53be12f3a4d3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_94fdb8479455568c6202820c0acd9f5848ab338b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c928230175a046301d6720c2cd1b50868cb68a2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_66ad5ce974fcf134726ce6b5f3690816b3bd30ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_94fdb8479455568c6202820c0acd9f5848ab338b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cfd19d6306c5f2233f7d29641f0d8990a7c87db1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_cfd19d6306c5f2233f7d29641f0d8990a7c87db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_66ad5ce974fcf134726ce6b5f3690816b3bd30ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_8995cbd914c373aaa6cd83513558f70877f9362b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bf3d63fa6e44f53f9167516cd560aa1e1ecf959">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f975ff5f9bfee61a53daf75de97e66be53ba7f1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_8995cbd914c373aaa6cd83513558f70877f9362b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="837df32b10f156c5985cb4771a0382bb6dd8d042">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3a74fb80348113fcd62a7dd1e026e44634e4772e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_d8243dc66757e1bd76cf7a3210a1378e916fb080.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_cd10c27b4b769f945d7ad89078ec969fd83b1f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_58093283b472cf690042c7429ad75568f705287e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_cd10c27b4b769f945d7ad89078ec969fd83b1f5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_d8243dc66757e1bd76cf7a3210a1378e916fb080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\BaBa_RanChO\Documents\nano\MyNewsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_58093283b472cf690042c7429ad75568f705287e\classes.dex" />
+    </item>
+
+</items>
